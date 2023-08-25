@@ -30,13 +30,13 @@
 //             DCB=(LRECL=80,RECFM=FBA,BLKSIZE=0),UNIT=SYSDA
 //             SPACE=(TRK,(5,10),RLSE)
 //MSMTCHF    DD DSN=MSMTCHF,DISP=(NEW,CATLG),
-//             DCB=(LRECL=80,RECFM=FBA,BLKSIZE=0),UNIT=SYSDA
+//             DCB=(LRECL=200,RECFM=FBA,BLKSIZE=0),UNIT=SYSDA
 //             SPACE=(TRK,(5,10),RLSE)
 //SUMMRPT    DD DSN=SUMMRPT,DISP=(NEW,CATLG),
 //             DCB=(LRECL=80,RECFM=FBA,BLKSIZE=0),UNIT=SYSDA
 //             SPACE=(TRK,(5,10),RLSE)
 //DJXREFFL   DD DSN=CXREF,DISP=(NEW,CATLG),
-//             DCB=(LRECL=80,RECFM=FBA,BLKSIZE=0),UNIT=SYSDA
+//             DCB=(LRECL=72,RECFM=FBA,BLKSIZE=0),UNIT=SYSDA
 //             SPACE=(TRK,(5,10),RLSE)
 //*
 //********************************************
